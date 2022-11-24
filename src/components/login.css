@@ -1,0 +1,13 @@
+.full{
+    width: 1500;
+    height: 1000;
+    background-color: rgb(239,231,231);
+}
+.LoginBox{
+    width: 400;
+    height: 500;
+    background-color: rgb(0, 204, 153,0.3);
+     position:'relative';
+     left:450;
+     top:80;
+}
